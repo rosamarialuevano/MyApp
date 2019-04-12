@@ -1,2 +1,2 @@
-# MyApp
-Como hacer un desarrollo de aplicaciones mas rapido
+# Sistema de Control de Usuarios
+*ver 1.0*
